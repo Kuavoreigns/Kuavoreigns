@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kuavoreigns
+- 👋 Hi, I’m @Kuavoconnects
 - 👀 I’m interested in Programming and Video Editing
 - 🌱 I’m currently learning C++, Python
 - 💞️ I’m looking to collaborate on a lot of projects and more
